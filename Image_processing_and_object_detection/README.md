@@ -4,7 +4,7 @@ The goal of this individual assignment was to apply some basic image processing 
 to detect an object and produce a one minute video. 
 The Video can be found [here]().
 
-The video is structured as followes:  
+The video is structured as follows:  
 * 0s-20s: Basic image processing techniques to provide special effects.  
       * Color and grayscale (±4s).  
       * Smoothing or blurring to reduce noise. Experiments with Gaussian and bi-lateral filters.   
